@@ -10,3 +10,14 @@
   <p><a href="entries/day1.html">Read Day 1 Entry →</a></p>
 </body>
 </html>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #111;
+  color: #eee;
+  padding: 2rem;
+}
+
+a {
+  color: #00ffd5;
+  text-decoration: none;
+}
